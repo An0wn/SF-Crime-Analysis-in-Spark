@@ -1,6 +1,6 @@
 # SF-Crime-Analysis-in-Spark
 
-Performed spatial and time series analysis for a 15 year dataset of reported incidents from SFPD. 
+Performed spatial analysis for a 15 year dataset of reported incidents from SFPD. 
 •Build data processing pipeline based on Spark RDD, Dataframe and Spark SQL for big data OLAP. 
 
 # Exploration of San Francisco Crime Dataset with Spark
